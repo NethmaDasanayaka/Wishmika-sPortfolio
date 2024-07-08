@@ -40,66 +40,66 @@ export default function About() {
         ))}
       </div>
 
-      {/* <div className="max-w-4xl">
-        <Paragraph className=" mt-4">
+      <div className="max-w-4xl">
+        <Paragraph className="mt-4">
           {`Hey there, I'm Wishmika Dasanayaka - a passionate Data Scientist,
           avid writer, and a connoisseur of awesome design. Welcome to my corner
           of the digital world!`}
         </Paragraph>
-        <Paragraph className=" mt-4">
-          As a dedicated and driven fourth-year student at the University of
+        <Paragraph className="mt-4">
+          {`As a dedicated and driven fourth-year student at the University of
           Colombo, pursuing an Honors degree in IT and Management, my academic
           journey has been shaped by a steadfast commitment to excellence and a
-          fervent passion for the fields of Data Science and AI.
+          fervent passion for the fields of Data Science and AI.`}
         </Paragraph>
 
-        <Paragraph className=" mt-4">
-          Having completed my secondary education at Bandaranayaka College
+        <Paragraph className="mt-4">
+         {` Having completed my secondary education at Bandaranayaka College
           Gampaha, I embarked on a path of exploration and growth, fueled by an
           insatiable curiosity for cutting-edge technologies. Throughout my
           university years, I have immersed myself in the intricate realm of
           Data Science and AI, delving into the intricacies of algorithms,
-          predictive modeling, and machine learning frameworks.
+          predictive modeling, and machine learning frameworks.`}
         </Paragraph>
-        <Paragraph className=" mt-4">
-          My enthusiasm for these transformative disciplines is evident through
+        <Paragraph className="mt-4">
+          {`My enthusiasm for these transformative disciplines is evident through
           my proactive engagement in coursework, collaborative projects, and
           independent research. I have actively sought opportunities to expand
           my practical skills, honing my ability to extract insights from
           complex datasets, design meaningful experiments, and employ
-          statistical methods to drive informed decision-making.
+          statistical methods to drive informed decision-making.`}
         </Paragraph>
-        <Paragraph className=" mt-4">
-          Beyond the classroom, my zeal for Data Science and AI has led me to
+        <Paragraph className="mt-4">
+          {`Beyond the classroom, my zeal for Data Science and AI has led me to
           actively participate in workshops, seminars, and hackathons, where
           I've had the privilege to collaborate with fellow enthusiasts and
           industry experts. These experiences have not only enriched my
           technical proficiency but have also nurtured my aptitude for teamwork,
-          problem-solving, and effective communication.
+          problem-solving, and effective communication.`}
         </Paragraph>
-        <Paragraph className=" mt-4">
-          As I approach the culmination of my academic journey, I am resolute in
+        <Paragraph className="mt-4">
+          {`As I approach the culmination of my academic journey, I am resolute in
           my aspiration to channel my knowledge and passion into a professional
           career in the realm of Data Science and AI. Eager to contribute my
           skills to real-world challenges, I am wholeheartedly committed to
           leveraging data-driven insights and innovative solutions to shape the
-          future of industries and drive transformative growth.
+          future of industries and drive transformative growth.`}
         </Paragraph>
 
         <Paragraph className="mt-4">
-          With a solid foundation in IT and Management, coupled with a fervent
+          {`With a solid foundation in IT and Management, coupled with a fervent
           dedication to Data Science and AI, I am poised to embark on a journey
           that embodies both intellectual rigor and unwavering enthusiasm. I am
           excited about the prospect of applying my unique blend of skills,
           knowledge, and passion to make a lasting impact in the dynamic
-          landscape of Data Science and AI.
+          landscape of Data Science and AI.`}
         </Paragraph>
 
         <Paragraph className="mt-4">
           {`Thank you for being here, and I can't wait to embark on this
           adventure with you.`}
         </Paragraph>
-      </div> */}
+      </div>
     </div>
   );
 }
